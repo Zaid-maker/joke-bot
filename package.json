@@ -1,0 +1,31 @@
+{
+  "name": "joke-bot",
+  "version": "1.0.5",
+  "description": "A discord bot that sends jokes.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaid-maker/joke-bot.git"
+  },
+  "keywords": [
+    "joke",
+    "glitch",
+    "discord",
+    "bot"
+  ],
+  "author": "Devmirza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaid-maker/joke-bot/issues"
+  },
+  "homepage": "https://github.com/Zaid-maker/joke-bot#readme",
+  "dependencies": {
+    "dblapi.js": "^2.4.0",
+    "discord-jokes": "^1.0.9",
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
